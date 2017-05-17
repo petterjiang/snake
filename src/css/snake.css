@@ -1,0 +1,10 @@
+#snakePlayer { display: block;
+    overflow: hidden; width:400px;
+    margin: 0 auto; position: relative;
+    border: 3px solid #ccc;}
+.gz{width: 20px;
+    height: 20px;
+    background: #fff; box-sizing: border-box; position: relative; float: left;}
+.snakeBody { background: red;}
+.food { background: green; position: absolute; width: 20px; height: 20px;}
+.sbody { position: absolute; width: 20px; height: 20px; background: #000;}
